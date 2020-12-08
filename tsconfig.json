@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "declarationMap": false,
+    "module": "es2015",
+    "target": "es2015",
+    "removeComments": true,
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "./node_modules?*"
+  ],
+  "include": [
+    "./src/*",
+  ]
+}
